@@ -132,9 +132,9 @@ section {
   font-family: var(--font-secondary);
   font-size: 1.1rem;
   color: var(--bg-color);
-  padding: 0.4rem 0.6rem;
+  padding: 0.5rem 0.7rem;
   display: inline-block;
-  width: 90%;
+  width: 100%;
   text-align: center;
   line-height: 1;
   border-radius: 0 0 4px 4px;
