@@ -5,9 +5,9 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Poppins', sans-serif;
-  --font-secondary: 'Arvo', serif;
-  --font-code: 'Roboto', monospace;
+  --font-primary: 'Eurostile', BoldExtendedTwo;
+  --font-secondary: 'Eurostile', BoldExtendedTwo;
+  --font-code: 'Eurostile', BoldExtendedTwo;
   --bg-color: #ececed;
   --font-color: #de202a;
   --btn-bg-color: #47bbd6;
